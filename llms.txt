@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/scent-of-wild-rose/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Scent Of Wild Rose](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-of-wild-rose/) |
+| **Get License** | [Obtain a Music License for Scent Of Wild Rose](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-of-wild-rose/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still taste the midnight on your skin
+> A quiet storm that is waiting to begin
+> We have got nowhere to be and all night to fall
+> With our shadows dancing softly on the wall
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7f51a21b18c1eeda6b8208db0ee0c8c75acad01dc82e9da430675df8079ec95c` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
