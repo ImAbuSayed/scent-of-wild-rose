@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still taste the midnight on your skin
+> A quiet storm that is waiting to begin
+> We have got nowhere to be and all night to fall
+> With our shadows dancing softly on the wall
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
